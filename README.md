@@ -1,13 +1,14 @@
-# odtest
+# od
 
 VIP invitation management
 
 ## Links
 
-- [Demo (Loom)](https://www.example.com)
-- [Technical walkthrough (Loom)](https://www.example.com)
-- [App (Retool)](https://www.example.com)
-- [Spec](https://odteam.notion.site/odteam/No-Code-Infrastructure-Engineer-Take-Home-Test-0987b15357f941ab80ca79c16b23c9cd)
+- [Demo (Loom)](https://www.loom.com/share/ac1d276dec5d4b43bb675dae00195566)
+- [Technical walkthrough 1 (Loom)](https://www.loom.com/share/a243d1349d4245cdb5e2418e29bb966e)
+- [Technical walkthrough 2 (Loom)](https://www.loom.com/share/16c3fd2671d04b898e86c615107b2514)
+- [App (Retool)](https://odtest.retool.com/embedded/public/3c86258d-e100-41b7-b748-fa908a743a6b)
+- [Spec (Notion)](https://odteam.notion.site/odteam/No-Code-Infrastructure-Engineer-Take-Home-Test-0987b15357f941ab80ca79c16b23c9cd)
 
 ## Tech Stack
 
